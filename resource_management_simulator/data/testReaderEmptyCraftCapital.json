@@ -1,0 +1,12 @@
+{
+  "bankAccount": {
+    "interestRate": 1.1,
+    "balance": 0
+  },
+  "inventory": {
+    "materials": [],
+    "craftedItems": [],
+    "capacity": 5
+  },
+  "day": 1
+}
