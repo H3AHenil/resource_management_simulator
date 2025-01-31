@@ -1,0 +1,28 @@
+{
+    "bankAccount": {
+        "interestRate": 1.6,
+        "balance": 100
+    },
+    "inventory": {
+        "materials": [{
+            "quantity": 20,
+            "name": "Wood"
+        }],
+        "craftedItems": [
+            {
+                "baseSalePrice": 100,
+                "name": "Wood Door",
+                "inventorySize": 3,
+                "quality": "Poor"
+            },
+            {
+                "baseSalePrice": 20,
+                "name": "Satanic Stone Sculpture",
+                "inventorySize": 1,
+                "quality": "Good"
+            }
+        ],
+        "capacity": 1
+    },
+    "day": 5
+}
