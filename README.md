@@ -1,5 +1,7 @@
 # My Personal Project: Craft Capital
 
+DEMO: https://www.youtube.com/watch?v=tdAM_a6lvgM&t=3s
+
 ## Overview
 
 **Craft Capital** is a strategy and simulation game that involves elements
